@@ -15,7 +15,7 @@
           type="number"
           v-model="store.a"
           class="w-20 text-end"
-          max="9999"
+          max="999999"
           required
         />
         x +
@@ -23,7 +23,7 @@
           type="number"
           v-model="store.b"
           class="w-20 text-end"
-          max="9999"
+          max="999999"
           required
         />
         y =
@@ -31,7 +31,7 @@
           type="number"
           v-model="store.c"
           class="w-20"
-          max="9999"
+          max="999999"
           required
         />
       </div>
@@ -40,7 +40,7 @@
           type="number"
           v-model="store.a1"
           class="w-20 text-end"
-          max="9999"
+          max="999999"
           required
         />
         x +
@@ -48,7 +48,7 @@
           type="number"
           v-model="store.b1"
           class="w-20 text-end"
-          max="9999"
+          max="999999"
           required
         />
         y =
@@ -56,7 +56,7 @@
           type="number"
           v-model="store.c1"
           class="w-20"
-          max="9999"
+          max="999999"
           required
         />
       </div>
